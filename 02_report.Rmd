@@ -13,3 +13,10 @@ d <- read_csv("data/breast_cancer.csv")
 head(d)
 ```
 
+```{r}
+d2 <- read_csv("data/indian_diabetes.csv")
+
+summary(d2)
+```
+
+
