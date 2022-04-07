@@ -1,0 +1,2 @@
+# squash
+squash commit test
